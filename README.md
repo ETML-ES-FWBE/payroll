@@ -1,4 +1,4 @@
-# Spring-warm-up training
+# Payroll
 
 This repository has been created as a learning tool for getting to grips with spring boot.
 
